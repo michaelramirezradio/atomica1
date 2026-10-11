@@ -1,0 +1,6 @@
+{
+  "name": "Atómica 1 Radio Web Player",
+  "description": "Reproductor web oficial de Atómica 1 Radio con transmisión en vivo continua, metadatos en tiempo real de Centova Cast, historial de temas con carátulas dinámicas y visualizador de audio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
